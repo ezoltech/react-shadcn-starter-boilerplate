@@ -1,0 +1,64 @@
+/* General logo styles */
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms ease-in-out;
+}
+
+/* Vite logo hover effect */
+.logo:hover {
+  filter: drop-shadow(0 0 4em #646cffaa); /* Increased glow intensity */
+}
+
+/* React logo hover effect */
+.logo.react:hover {
+  filter: drop-shadow(0 0 10em #61dafbaa); /* Increased glow intensity */
+}
+
+/* JavaScript logo hover effect */
+.logo.js:hover {
+  filter: drop-shadow(0 0 4em #f7df1eaa); /* Increased glow intensity */
+}
+
+/* ShadCN logo hover effect */
+.logo.shadcn:hover {
+  filter: drop-shadow(0 0 4em #ffffffaa); /* Increased glow intensity */
+}
+
+/* Tailwind logo hover effect */
+.logo.tailwind:hover {
+  filter: drop-shadow(0 0 4em #38bdf8aa); /* Tailwind blue with glow */
+}
+
+/* React Router DOM logo hover effect */
+.logo.react-router-dom:hover {
+  filter: drop-shadow(0 0 4em #f7dff7aa); /* Soft pink glow */
+}
+
+/* Keyframes for rotating animation */
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Apply rotation animation to React logo */
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+/* Card styling */
+.card {
+  padding: 2em;
+}
+
+/* Documentation link styling */
+.read-the-docs {
+  color: #888;
+}

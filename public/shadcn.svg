@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="225.000000pt" height="225.000000pt" viewBox="0 0 225.000000 225.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,225.000000) scale(0.100000,-0.100000)">
+  
+  <!-- Outer lines (changing to white) -->
+  <path fill="#ffffff" stroke="none"
+        d="M1915 2239 c-33 -19 -1885 -1872 -1902 -1903 -34 -65 13 -136 91
+        -136 l41 0 952 953 953 952 0 42 c0 29 -7 50 -22 68 -26 29 -82 41 -113 24z"/>
+  
+  <!-- Two slanted lines (keeping white) -->
+  <path fill="#ffffff" stroke="none"
+        d="M1593 657 l-513 -512 0 -43 c0 -71 66 -118 128 -93 15 7 254 238 531
+        515 474 474 503 505 508 544 5 36 2 45 -25 72 -24 24 -39 30 -73 30 l-43 0
+        -513 -513z"/>
+</g>
+</svg>
