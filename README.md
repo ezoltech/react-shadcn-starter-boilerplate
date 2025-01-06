@@ -34,4 +34,4 @@ git clone https://github.com/ezoltech/react-shadcn-starter-boilerplate.git
 cd react-shadcn-starter-boilerplate
 ```
 
-### 2. Add and Work with your componenets on src/app so that it will not make a conflict with shadcn's imports
+### 2. Add and Work with your componenets on <h2 style="color: red;">src/app</h2> so that it will not make a conflict with shadcn's imports
