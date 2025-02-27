@@ -31,6 +31,9 @@ Clone this template repository to your local machine:
 
 ```bash
 git clone https://github.com/ezoltech/react-shadcn-starter-boilerplate.git
+```
+
+```bash
 cd react-shadcn-starter-boilerplate
 ```
 
